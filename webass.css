@@ -1,0 +1,58 @@
+h1{
+  
+   text-align:left;
+   font-family:Monotype Corsiva;
+   font-size: 45px;
+   color:32C2D6;
+   text-decoration: bold;
+  text-align: middle;
+
+}
+
+h2
+{ 
+
+   color:83A9C1;
+   text-align:left;
+   font-family:MV Boli;
+   font-size: 42px;
+
+}
+
+h3
+{
+  
+   font-family:Monotype Corsiva;
+   font-size: 40px;
+   text-align:left;
+   color:#80aaff ;
+}
+
+h4{
+
+  font-family:Matura MT Script Capitals;
+  font-size:33px;
+  color: #4d88ff;
+
+}
+
+  table, th,td{
+  font-family: ariel;
+  font-size: 30px;
+  color: #b3e0ff;
+  text-align: left;
+             }
+
+body{
+
+  
+  margin: 0;
+  padding: 0;
+  font-family:Arial;
+  background:url('12.png')no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  }

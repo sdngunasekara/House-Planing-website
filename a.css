@@ -1,0 +1,35 @@
+
+
+p{
+
+	font-family: Gabriola;
+	font-size: 25px;
+	text-decoration: italic;
+	text-align:left;
+    color: #b3e0ff;
+	
+	
+}
+
+h3{
+
+	font-family:Script MT Bold;
+	font-size: 30px;
+	text-decoration: bold;
+	text-align: center;
+     color:8E96DE;
+
+}
+
+
+body{
+
+
+	margin: 0;
+	padding: 0;
+	font-family:Arial;
+	background:url('n.jpg') no-repeat; 
+	background-size:cover; 
+
+
+}
